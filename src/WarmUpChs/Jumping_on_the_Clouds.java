@@ -5,6 +5,7 @@ public class Jumping_on_the_Clouds {
 	public static void main(String[] args) {
 		int[] clouds = {0,0,1,0,0,1,0};
 		System.out.println(jumpingOnClouds(clouds));
+		
 
 	}
 	
