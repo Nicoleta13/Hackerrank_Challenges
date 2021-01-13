@@ -1,4 +1,4 @@
-package WarmUpChs;
+package warmUpChs;
 
 public class Counting_Valleys {
 
